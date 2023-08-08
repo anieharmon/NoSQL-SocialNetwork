@@ -13,15 +13,6 @@ node index.js
 
 Requirments
 
-Node.js | Inquirer | MySQL
-
-Once Installed:
-
-Clone the Repository on to your machine.
-Open the terminal and ensure you are in the right file path.
-Run the command npm install to download the packages.
-Then run the command node index.js to run the software.
-The command prompt will begin on your terminal
 
 ##Usage
 

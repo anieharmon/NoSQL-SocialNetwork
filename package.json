@@ -13,12 +13,13 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/anieharmon/NoSQL-SocialNetwork",
+      "url": "git+https://github.com/anieharmon/NoSQL-SocialNetwork"
+    },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/anieharmon/NoSQL-SocialNetwork/issues",
+      "url": "https://github.com/anieharmon/NoSQL-SocialNetwork/issues"
     },
-    "homepage": "https://github.com/anieharmon/NoSQL-SocialNetwork/blob/main/README.md"
-    }
+    "homepage": "https://github.com/anieharmon/NoSQL-SocialNetwork/issues#readme"
+  }
